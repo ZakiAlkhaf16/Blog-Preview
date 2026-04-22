@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add your solution URL here]
-- Live Site URL: [Add your live site URL here]
+- Solution URL: https://github.com/ZakiAlkhaf16/Blog-Preview#links
+- Live Site URL: https://zakialkhaf16.github.io/Blog-Preview/
 
 ## My process
 
@@ -55,7 +55,6 @@ Regarding the **Font styling** issue I encountered (specifically matching the de
 /* My focus on hover states */
 .card-title:hover {
   color: var(--yellow-primary);
-  cursor: pointer;
 }
 
 ### Continued development
@@ -75,5 +74,4 @@ Documentation: Refining this README file to present my work professionally.
 Responsive Strategies: Discussing the benefits of using percentages (%) instead of fixed pixels (px) to ensure the card scales well on various devices.
 
 ### Author
-Website - Zaki Alkhalaf
 Frontend Mentor - @zakialkhaf16
