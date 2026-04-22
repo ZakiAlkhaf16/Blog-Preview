@@ -36,9 +36,15 @@ body{
     width: 384px;
     box-shadow: 10px 10px var(--gray-950);
     border: 1px solid var(--gray-950);
+    transition: all 0.5s ease-in-out;
 }
 
-/* edit the content page  */
+.main-card:hover{
+    transform: translate(-2px, -2px);
+    cursor: pointer;
+}
+
+
 .content {
     display: flex;
     flex-direction: column;
@@ -46,16 +52,9 @@ body{
   }
 
 
-/* style square , above the content */
-.top-desgin-card{
-    background-color: var(--yellow);
-    border-radius: 10px;
-    padding: 20px;
-    width: 336;
-    height: 200px;
-    position: relative;
-    overflow: hidden;   
-}
+.blogImage{
+    border-radius: 20px;
+}/* style square , above the content */
 
 .learning{
     background-color: var(--yellow);
